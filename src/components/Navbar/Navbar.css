@@ -1,0 +1,33 @@
+.navbar{
+    background-color: rgba(35, 120, 231, 0.921);
+    font-size: 40px;
+    padding: 15px;
+    display: flex;
+    color: beige;
+}
+.icon{
+    height: 40px;
+   
+   
+}
+.navbar-link{
+    font-size:20px ;
+    font-weight: bold;
+    color: beige;
+    text-decoration: none;
+    cursor:pointer;
+    padding: 20px;
+}
+.navbar-links{
+    margin-left: 930px;
+}
+.page1{
+    background-image: linear-gradient( 135deg, #72EDF2 10%, #5151E5 100%);
+    border-radius: 50px;
+   text-align: center;
+    color: beige; 
+    padding: 10px;
+    margin: 10px 20px;
+    font-size: 50px;
+    
+}
